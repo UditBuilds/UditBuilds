@@ -25,7 +25,6 @@ Real projects with full source available — built to solve specific problems en
 |---|---|---|
 | **[DraftTwin](https://github.com/UditBuilds/drafttwin)** | Multi-tenant AI DM-drafting SaaS for D2C founders — Flask-Login auth + a per-brand "brain" system | Flask · Groq LLaMA 3.3-70B · SQLite · Railway |
 | **[VidSage](https://github.com/UditBuilds/vidsage)** | YouTube → structured study notes — Whisper transcription, chunked audio for 3hr+ videos, PDF/Markdown export | Flask · Groq Whisper · yt-dlp |
-| **[VidForge](https://github.com/UditBuilds/-VidForge)** | Automated faceless-video pipeline — AI narration, stock footage, burned-in captions | Gemini · Edge-TTS · MoviePy |
 | **[AI Intelligence Daily](https://github.com/UditBuilds/AI-Intelligence-Daily)** | 90-second daily AI briefing bot delivered to Telegram every morning | Python · Groq · GitHub Actions |
 
 ---
