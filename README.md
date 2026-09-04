@@ -18,7 +18,7 @@ I build production-grade AI agents and automation systems, and I run a D2C brand
 | Project | What it does | Stack | |
 |---|---|---|---|
 | **[Prism](https://github.com/UditBuilds/Prism-Productivity-Tool)** | AI-native productivity PWA — tasks, notes, reminders, workout logging, spaced-repetition flashcards (SM-2), PDF/YouTube → notes, offline-first | Next.js 14 · TypeScript · Supabase · Groq | **[Live ↗](https://prism-productivity-tool.vercel.app)** |
-| **[The Glam Shelf](https://glamshelf.in)** | Live D2C false-eyelash brand on Shopify — 150+ orders, powered by the GlamShelf Twin agent | Shopify · Razorpay · WATI | **[Live ↗](https://glamshelf.in)** |
+| **[The Glam Shelf](https://glamshelf.in)** | Live D2C false-eyelash brand on Shopify — 1000+ orders, powered by the GlamShelf Twin agent | Shopify · Razorpay · WATI | **[Live ↗](https://glamshelf.in)** |
 
 ---
 
@@ -39,6 +39,7 @@ Real projects with full source available — built to solve specific problems en
 - **Agents that ship** — classification routing (`AUTO` / `DRAFT` / `ESCALATE`), human-in-the-loop approval, brand-voice grounding, real webhooks and payment/fulfilment integrations.
 - **Cost-aware LLM engineering** — multi-key rotation, provider fallback (Groq / Claude / Gemini), exponential backoff, and response deduplication.
 - **End-to-end ownership** — from Supabase schema and PWA service workers to Railway / Render / Vercel deploys and the CI that keeps them running.
+- **Agentic-IDE fluent** — Claude Code, Google Antigravity (Gemini), and other agentic surfaces, chosen per project rather than defaulting to one tool.
 
 ---
 
@@ -55,7 +56,7 @@ Real projects with full source available — built to solve specific problems en
 
 ## 📍 Currently
 
-- Running **[The Glam Shelf](https://glamshelf.in)** — a D2C false-eyelash brand on Shopify (150+ orders and growing)
+- Running **[The Glam Shelf](https://glamshelf.in)** — a D2C false-eyelash brand on Shopify (1000+ orders and growing)
 - Building **[Prism](https://prism-productivity-tool.vercel.app)** in the open — an AI-native productivity app, iterating in public
 - Open to remote AI roles — **agent development, automation, intelligent systems**
 
