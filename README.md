@@ -30,7 +30,7 @@ Real projects with full source available — built to solve specific problems en
 |---|---|---|
 | **[GlamShelf Twin](https://github.com/UditBuilds/glamshelf-twin)** | AI customer-support agent powering my own D2C brand — handles ~80% of WhatsApp/Instagram DMs autonomously, escalates the rest via Telegram | Flask · DeepSeek · Claude (vision) · WATI · Shopify · Telegram |
 | **[AI Intelligence Daily](https://github.com/UditBuilds/AI-Intelligence-Daily)** | 90-second daily AI briefing bot delivered to Telegram every morning — curated for founders | Python · Groq LLaMA 3.3-70B · GitHub Actions |
-| **[Daily Digest Newsbot](https://github.com/UditBuilds/daily-digest-newsbot)** | Twice-daily AI-summarized news briefing to Telegram — free, RSS-backed, multi-source aggregation | Python · Groq LLaMA 3.3-70B · GitHub Actions |
+| **[Daily Digest Newsbot](https://github.com/UditBuilds/daily-digest-newsbot)** | Twice-daily AI-summarized news briefing to Telegram — free, RSS-backed, multi-source aggregation | Python · Gemini 2.5 Flash · GitHub Actions |
 
 ---
 
