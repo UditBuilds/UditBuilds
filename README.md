@@ -17,8 +17,8 @@ I build production-grade AI agents and automation systems, and I run a D2C brand
 
 | Project | What it does | Stack | |
 |---|---|---|---|
-| **[Prism](https://github.com/UditBuilds/Prism-Productivity-Tool)** | AI-native spaced-repetition PWA — SM-2 scheduling, LLaMA flashcard generation, PDF→cards, push notifications | Next.js 14 · TypeScript · Supabase · Groq | **[Live ↗](https://prism-productivity-tool.vercel.app)** |
-| **[The Glam Shelf](https://glamshelf.in)** | Live D2C false-eyelash brand on Shopify — 142+ orders, powered by the GlamShelf Twin agent | Shopify · Razorpay · WATI | **[Live ↗](https://glamshelf.in)** |
+| **[Prism](https://github.com/UditBuilds/Prism-Productivity-Tool)** | AI-native productivity PWA — tasks, notes, reminders, workout logging, spaced-repetition flashcards (SM-2), PDF/YouTube → notes, offline-first | Next.js 14 · TypeScript · Supabase · Groq | **[Live ↗](https://prism-productivity-tool.vercel.app)** |
+| **[The Glam Shelf](https://glamshelf.in)** | Live D2C false-eyelash brand on Shopify — 150+ orders, powered by the GlamShelf Twin agent | Shopify · Razorpay · WATI | **[Live ↗](https://glamshelf.in)** |
 
 ---
 
@@ -31,8 +31,6 @@ Real projects with full source available — built to solve specific problems en
 | **[GlamShelf Twin](https://github.com/UditBuilds/glamshelf-twin)** | AI customer-support agent powering my own D2C brand — handles ~80% of WhatsApp/Instagram DMs autonomously, escalates the rest via Telegram | Flask · Claude API · WATI · Shopify · Telegram |
 | **[AI Intelligence Daily](https://github.com/UditBuilds/AI-Intelligence-Daily)** | 90-second daily AI briefing bot delivered to Telegram every morning — curated for founders | Python · Groq LLaMA 3.3-70B · GitHub Actions |
 | **[Daily Digest Newsbot](https://github.com/UditBuilds/daily-digest-newsbot)** | Twice-daily AI-summarized news briefing to Telegram — free, RSS-backed, multi-source aggregation | Python · Groq LLaMA 3.3-70B · GitHub Actions |
-| **[VidSage](https://github.com/UditBuilds/vidsage)** | YouTube → structured study notes — Whisper transcription, chunked audio for 3hr+ videos, PDF/Markdown export | Flask · Groq Whisper · yt-dlp |
-| **[DraftTwin](https://github.com/UditBuilds/drafttwin)** | Multi-tenant AI DM-drafting SaaS for D2C founders — Flask-Login auth + per-brand "brain" system | Flask · Groq LLaMA 3.3-70B · SQLite · Railway |
 
 ---
 
@@ -47,7 +45,7 @@ Real projects with full source available — built to solve specific problems en
 ## 🧰 Stack
 
 **Languages** — Python · TypeScript · SQL
-**AI** — Claude API · Groq (LLaMA 3.3-70B, Whisper) · Gemini · SM-2
+**AI** — Claude API · Groq (gpt-oss-120b, Whisper) · Gemini · SM-2
 **Web** — Next.js 14 · Flask · React · Tailwind CSS
 **Data** — Supabase · PostgreSQL · SQLite
 **Infra** — Railway · Render · Vercel · GitHub Actions · n8n
@@ -57,8 +55,9 @@ Real projects with full source available — built to solve specific problems en
 
 ## 📍 Currently
 
-- Running **[The Glam Shelf](https://glamshelf.in)** — a D2C false-eyelash brand on Shopify (142+ orders and growing)
-- Building **[Prism](https://prism-productivity-tool.vercel.app)** in the open — an AI-native learning tool, shipped across 12+ sessions
+- Running **[The Glam Shelf](https://glamshelf.in)** — a D2C false-eyelash brand on Shopify (150+ orders and growing)
+- Building **[Prism](https://prism-productivity-tool.vercel.app)** in the open — an AI-native productivity app, iterating in public
+- Building an eval + LangGraph agent layer on top of GlamShelf Twin's RAG answers — a portfolio piece in progress
 - Open to remote AI roles — **agent development, automation, intelligent systems**
 
 ---
