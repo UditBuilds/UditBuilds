@@ -28,7 +28,7 @@ Real projects with full source available — built to solve specific problems en
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[GlamShelf Twin](https://github.com/UditBuilds/glamshelf-twin)** | AI customer-support agent powering my own D2C brand — handles ~80% of WhatsApp/Instagram DMs autonomously, escalates the rest via Telegram | Flask · Claude API · WATI · Shopify · Telegram |
+| **[GlamShelf Twin](https://github.com/UditBuilds/glamshelf-twin)** | AI customer-support agent powering my own D2C brand — handles ~80% of WhatsApp/Instagram DMs autonomously, escalates the rest via Telegram | Flask · DeepSeek · Claude (vision) · WATI · Shopify · Telegram |
 | **[AI Intelligence Daily](https://github.com/UditBuilds/AI-Intelligence-Daily)** | 90-second daily AI briefing bot delivered to Telegram every morning — curated for founders | Python · Groq LLaMA 3.3-70B · GitHub Actions |
 | **[Daily Digest Newsbot](https://github.com/UditBuilds/daily-digest-newsbot)** | Twice-daily AI-summarized news briefing to Telegram — free, RSS-backed, multi-source aggregation | Python · Groq LLaMA 3.3-70B · GitHub Actions |
 
@@ -45,7 +45,7 @@ Real projects with full source available — built to solve specific problems en
 ## 🧰 Stack
 
 **Languages** — Python · TypeScript · SQL
-**AI** — Claude API · Groq (gpt-oss-120b, Whisper) · Gemini · SM-2
+**AI** — DeepSeek · Claude API · Groq (gpt-oss-120b) · Gemini · SM-2
 **Web** — Next.js 14 · Flask · React · Tailwind CSS
 **Data** — Supabase · PostgreSQL · SQLite
 **Infra** — Railway · Render · Vercel · GitHub Actions · n8n
@@ -57,7 +57,6 @@ Real projects with full source available — built to solve specific problems en
 
 - Running **[The Glam Shelf](https://glamshelf.in)** — a D2C false-eyelash brand on Shopify (150+ orders and growing)
 - Building **[Prism](https://prism-productivity-tool.vercel.app)** in the open — an AI-native productivity app, iterating in public
-- Building an eval + LangGraph agent layer on top of GlamShelf Twin's RAG answers — a portfolio piece in progress
 - Open to remote AI roles — **agent development, automation, intelligent systems**
 
 ---
